@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoDagwaarde", "AutoDagwaarde.csproj", "{97F2AADB-A610-47EC-A456-ADC477F99B30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97F2AADB-A610-47EC-A456-ADC477F99B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F2AADB-A610-47EC-A456-ADC477F99B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97F2AADB-A610-47EC-A456-ADC477F99B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97F2AADB-A610-47EC-A456-ADC477F99B30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29FC2966-BBF0-456E-B9BE-50A4766EB2BE}
+	EndGlobalSection
+EndGlobal
